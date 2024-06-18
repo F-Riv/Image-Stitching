@@ -1,4 +1,6 @@
 ### Structure: 
+
+Image_stiching.ipynb is a jupyter notebook with the main steps for image stitching 
 modules:
 - Distances.py contains functions related to calculating the difference between keypoints according to their descriptor
 - Graphs.py contains functions for plotting graphs 
