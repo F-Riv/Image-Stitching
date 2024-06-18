@@ -1,0 +1,9 @@
+{
+    "Distance type": ["eucl"],
+    "Top n values": [100, 200],
+    "RANSAC iterations": [1000, 2000],
+    "RANSAC inlier threshold": [2, 4],
+    "Peak min distance": [3, 5],
+    "SIFT Patch size": [15],
+    "k Harris": [0.01, 0.05]
+}

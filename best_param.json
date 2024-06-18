@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Distance type": "eucl",
+            "Top n values": 100,
+            "RANSAC iterations": 1000,
+            "RANSAC inlier threshold": 2,
+            "Peak min distance": 5,
+            "SIFT Patch size": 15,
+            "k Harris": 0.01
+        },
+        {
+            "Distance type": "eucl",
+            "Top n values": 100,
+            "RANSAC iterations": 2000,
+            "RANSAC inlier threshold": 2,
+            "Peak min distance": 3,
+            "SIFT Patch size": 15,
+            "k Harris": 0.01
+        },
+        {
+            "Distance type": "eucl",
+            "Top n values": 100,
+            "RANSAC iterations": 2000,
+            "RANSAC inlier threshold": 2,
+            "Peak min distance": 3,
+            "SIFT Patch size": 15,
+            "k Harris": 0.01
+        }
+    ],
+    [
+        0.88984658057137,
+        0.0824441489361702,
+        0.18921085484347896
+    ]
+]
